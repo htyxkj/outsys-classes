@@ -1,0 +1,1 @@
+xcopy D:\BIPPlatForm\JDDEV\InetBas\inetbas\web\outsys\*.class %cd%\outsys\  /s  /e /Y
